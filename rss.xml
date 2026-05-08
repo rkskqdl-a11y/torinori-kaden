@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>토리놀이 가전</title>
+    <title>토리놀이 가전 🏠</title>
     <link>https://kaden.torinori-shop.com/</link>
-    <description>스마트한 가전 쇼핑 가이드</description>
+    <description>스마트한 가전 쇼핑 가이드 및 리뷰 전문</description>
+    <language>ko</language>
+    <pubDate>Fri, 08 May 2026 12:00:00 +0900</pubDate>
+    <item>
+      <title>토리놀이 가전에 오신 것을 환영합니다</title>
+      <link>https://kaden.torinori-shop.com/</link>
+      <description>최신 생활 가전 리뷰와 꿀팁을 만나보세요.</description>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0900</pubDate>
+      <guid>https://kaden.torinori-shop.com/</guid>
+    </item>
   </channel>
 </rss>
